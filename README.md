@@ -136,7 +136,7 @@ pip install pandas numpy yfinance matplotlib plotly jupyter
 jupyter notebook
 ```
 
-Open `01_market_data_exploration.ipynb` and run the cells in order.
+Open `spy-vs-qqq-quantitative-analysis.ipynb` and run the cells in order.
 
 An internet connection is required to download market data from Yahoo
 Finance. Re-running the notebook may retrieve updated observations and
@@ -146,7 +146,7 @@ produce different results.
 
 ``` text
 YOUR-REPOSITORY/
-├── 01_market_data_exploration.ipynb
+├── spy-vs-qqq-quantitative-analysis.ipynb
 └── README.md
 ```
 
