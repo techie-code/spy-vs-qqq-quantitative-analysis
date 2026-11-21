@@ -120,8 +120,8 @@ forecasts.
 ### 1. Clone the repository
 
 ``` bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-cd YOUR-REPOSITORY
+git clone https://github.com/techie-code/YOUR-REPOSITORY.git
+cd spy-vs-qqq-quantitative-analysis
 ```
 
 ### 2. Install the required packages
