@@ -57,7 +57,7 @@ Finance data may change when the notebook is re-executed.
 
 ## Analysis
 
-The Jupyter notebook, `01_market_data_exploration.ipynb`, covers:
+The Jupyter notebook, `spy-vs-qqq-quantitative-analysis.ipynb`, covers:
 
 1.  **Data collection and exploration** -- downloading daily market data
     and inspecting its structure, data types and missing values.
